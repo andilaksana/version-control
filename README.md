@@ -1,6 +1,6 @@
 # Belajar Version Control
 
-## Belajar Penggunaan GitHub
+## Belajar GitHub
 
 Belajar Penggunaan Github <br>
 Bootcam INFORMATIK Day 01 | 02 Mei 2025
