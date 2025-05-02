@@ -2,8 +2,8 @@
 
 ## Belajar Menggunakan GitHub
 
-Belajar Penggunaan Git 
+Belajar Penggunaan Github
 
 
 
-by Andi Laksono# version-control
+by Andi Laksono
