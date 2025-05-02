@@ -1,8 +1,8 @@
 # Belajar Version Control
 
-## Belajar Menggunakan GitHub
+## Belajar Penggunaan GitHub
 
-Belajar Penggunaan Github
+Belajar Penggunaan Github <br>
 Bootcam INFORMATIK | 02 Mei 2025
 
 by Andi Laksono
